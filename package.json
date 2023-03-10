@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/magickw/TextEditor.git"
+    "url": "git+https://github.com/Azrael-Savage/potato-jateor.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/magickw/TextEditor/issues"
+    "url": "https://github.com/Azrael-Savage/potato-jateor.git"
   },
-  "homepage": "https://github.com/magickw/TextEditor#readme",
+  "homepage": "https://github.com/Azrael-Savage/potato-jateor.git",
   "dependencies": {
     "express": "^4.17.3"
   },
