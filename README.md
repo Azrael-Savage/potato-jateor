@@ -31,7 +31,7 @@ Click Heroku Link or Wait for app to load in browser and have fun!
 
 ## Links
 
-Heroku: https://the-jate-anator.herokuapp.com/
+Heroku: https://potato-jat-97563e2875d1.herokuapp.com/
 
 GitHub: https://github.com/Azrael-Savage/potato-jateor.git
 ## License
